@@ -156,7 +156,7 @@ for(let i=0;i<6;i++){const pad=new T.Mesh(padGeometry,new T.MeshStandardMaterial
 const towerLines=new T.BufferGeometry(),towerPositions=new Float32Array(36),towerColors=new Float32Array(36);towerLines.setAttribute('position',new T.BufferAttribute(towerPositions,3));towerLines.setAttribute('color',new T.BufferAttribute(towerColors,3));
 const towerBeams=new T.LineSegments(towerLines,new T.LineBasicMaterial({vertexColors:true,transparent:true,opacity:.8,blending:T.AdditiveBlending}));towerBeams.frustumCulled=false;scene.add(towerBeams);
 const beamMesh=new T.InstancedMesh(unlit(new T.CylinderGeometry(.012,.022,1,5)),new T.MeshBasicMaterial({toneMapped:false,transparent:true,opacity:.88,blending:T.AdditiveBlending,depthWrite:false}),6);beamMesh.frustumCulled=false;scene.add(beamMesh);for(let i=0;i<6;i++)beamMesh.setColorAt(i,paletteColors[i]);
-let active=0,firing=0,lock=0,over=0,mode=0,towerType=0,shotClock=0,flash=0,kick=0,gunPitch=-Math.PI*4/45;
+let active=0,firing=0,lock=0,over=0,mode=0,towerType=0,shotClock=0,flash=0,kick=0,gunPitch=-23*Math.PI/180;
 let turnLatch=0,aimYaw=0,aimPitch=0,moveX=0,moveY=0,inputSource,inputController;
 const keys={},rayOrigin=new T.Vector3(),rayDirection=new T.Vector3(),point=new T.Vector3(),up=new T.Vector3(0,1,0),quaternion=new T.Quaternion();
 let weapon=createWeapon(),gunHand='right',holding=0,nearPart=0;
