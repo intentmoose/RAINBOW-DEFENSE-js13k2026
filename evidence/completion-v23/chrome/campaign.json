@@ -1,0 +1,308 @@
+{
+  "sha256": "a63ff9079ffa3795c08d64cd86d585d06c03b682ddbbe5a3f58647d7d7fc1cd8",
+  "bytes": 13307,
+  "method": "Unmodified extracted ZIP; Playwright mouse/keyboard/buttons; DOM observations only; no state injection or time acceleration",
+  "waves": [
+    {
+      "wave": 1,
+      "start": {
+        "phase": "DEFEND · WAVE 1/6",
+        "score": "POINTS 0",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 100% · RELOAD",
+        "m": "TAP TO FIRE · R / RELOAD"
+      },
+      "samples": [
+        {
+          "phase": "DEFEND · WAVE 1/6",
+          "score": "POINTS 0",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 92% · RELOAD",
+          "m": "TAP TO FIRE · R / RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 1/6",
+          "score": "POINTS 30",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 59% · RELOAD",
+          "m": "TAP TO FIRE · R / RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 1/6",
+          "score": "POINTS 50",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 25% · RELOAD",
+          "m": "TAP TO FIRE · R / RELOAD"
+        }
+      ],
+      "end": {
+        "phase": "WAVE 1 COMPLETE!",
+        "score": "POINTS 83",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 9% · RELOAD",
+        "m": "SELECT TOWER · PAD · BUILD"
+      },
+      "durationMs": 18989
+    },
+    {
+      "wave": 2,
+      "start": {
+        "phase": "DEFEND · WAVE 2/6",
+        "score": "POINTS 13",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 100% · RELOAD",
+        "m": "TAP TO FIRE · R / RELOAD"
+      },
+      "samples": [
+        {
+          "phase": "DEFEND · WAVE 2/6",
+          "score": "POINTS 13",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 92% · RELOAD",
+          "m": "TAP TO FIRE · R / RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 2/6",
+          "score": "POINTS 33",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 59% · RELOAD",
+          "m": "TAP TO FIRE · R / RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 2/6",
+          "score": "POINTS 73",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 25% · RELOAD",
+          "m": "TAP TO FIRE · R / RELOAD"
+        }
+      ],
+      "end": {
+        "phase": "WAVE 2 COMPLETE!",
+        "score": "POINTS 129",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 59% · RELOAD",
+        "m": "SELECT TOWER · PAD · BUILD"
+      },
+      "durationMs": 23154
+    },
+    {
+      "wave": 3,
+      "start": {
+        "phase": "DEFEND · WAVE 3/6",
+        "score": "POINTS 19",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 100% · RELOAD",
+        "m": "FIRE · R / RELOAD"
+      },
+      "samples": [
+        {
+          "phase": "DEFEND · WAVE 3/6",
+          "score": "POINTS 19",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 88% · RELOAD",
+          "m": "FIRE · R / RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 3/6",
+          "score": "POINTS 19",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 38% · RELOAD",
+          "m": "FIRE · R / RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 3/6",
+          "score": "POINTS 32",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 88% · RELOAD",
+          "m": "FIRE · R / RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 3/6",
+          "score": "POINTS 158",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 38% · RELOAD",
+          "m": "FIRE · R / RELOAD"
+        }
+      ],
+      "end": {
+        "phase": "WAVE 3 COMPLETE!",
+        "score": "POINTS 222",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 75% · RELOAD",
+        "m": "SELECT TOWER · PAD · BUILD"
+      },
+      "durationMs": 34051
+    },
+    {
+      "wave": 4,
+      "start": {
+        "phase": "DEFEND · WAVE 4/6",
+        "score": "POINTS 67",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 100% · RELOAD",
+        "m": "FIRE · R / RELOAD"
+      },
+      "samples": [
+        {
+          "phase": "DEFEND · WAVE 4/6",
+          "score": "POINTS 67",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 88% · RELOAD",
+          "m": "FIRE · R / RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 4/6",
+          "score": "POINTS 67",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 38% · RELOAD",
+          "m": "FIRE · R / RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 4/6",
+          "score": "POINTS 99",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 0% · RELOAD",
+          "m": "FIRE · R / RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 4/6",
+          "score": "POINTS 218",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 50% · RELOAD",
+          "m": "FIRE · R / RELOAD"
+        }
+      ],
+      "end": {
+        "phase": "WAVE 4 COMPLETE!",
+        "score": "POINTS 321",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 25% · RELOAD",
+        "m": "SELECT TOWER · PAD · BUILD"
+      },
+      "durationMs": 37983
+    },
+    {
+      "wave": 5,
+      "start": {
+        "phase": "DEFEND · WAVE 5/6",
+        "score": "POINTS 266",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 100% · RELOAD",
+        "m": "FIRE · R / RELOAD"
+      },
+      "samples": [
+        {
+          "phase": "DEFEND · WAVE 5/6",
+          "score": "POINTS 266",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 80% · RELOAD",
+          "m": "FIRE · R / RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 5/6",
+          "score": "POINTS 318",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 40% · RELOAD",
+          "m": "FIRE · R / RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 5/6",
+          "score": "POINTS 440",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 80% · RELOAD",
+          "m": "FIRE · R / RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 5/6",
+          "score": "POINTS 492",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 40% · RELOAD",
+          "m": "FIRE · R / RELOAD"
+        }
+      ],
+      "end": {
+        "phase": "WAVE 5 COMPLETE!",
+        "score": "POINTS 562",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 80% · RELOAD",
+        "m": "SELECT TOWER · PAD · BUILD"
+      },
+      "durationMs": 33548
+    },
+    {
+      "wave": 6,
+      "start": {
+        "phase": "DEFEND · WAVE 6/6",
+        "score": "POINTS 482",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 100% · RELOAD",
+        "m": "FIRE · R / RELOAD"
+      },
+      "samples": [
+        {
+          "phase": "DEFEND · WAVE 6/6",
+          "score": "POINTS 482",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 80% · RELOAD",
+          "m": "FIRE · R / RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 6/6",
+          "score": "POINTS 534",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 40% · RELOAD",
+          "m": "FIRE · R / RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 6/6",
+          "score": "POINTS 637",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 80% · RELOAD",
+          "m": "FIRE · R / RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 6/6",
+          "score": "POINTS 793",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 20% · RELOAD",
+          "m": "FIRE · R / RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 6/6",
+          "score": "POINTS 822",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 60% · RELOAD",
+          "m": "FIRE · R / RELOAD"
+        }
+      ],
+      "end": {
+        "phase": "WAVE 6 COMPLETE!",
+        "score": "POINTS 870",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 60% · RELOAD",
+        "m": "FIRE · R / RELOAD"
+      },
+      "durationMs": 40913
+    }
+  ],
+  "errors": [],
+  "browser": "Chrome",
+  "browserVersion": "153.0.8010.36",
+  "startedAt": "2026-09-13T07:14:56.750Z",
+  "result": "RAINBOW\nDEFENDED\n\nWave 6 · 11570 points\n\nNEW DEFENSE\nFire: tap trigger / click / touch\nMove: left stick / WASD · Turn: right stick\nVR: hand reload · Desktop: R reload\nDrop empty → grip hip magazine → insert + release",
+  "final": {
+    "phase": "DEFEND · WAVE 6/6",
+    "score": "POINTS 870",
+    "counters": "CRYSTAL 20/20",
+    "reload": "AMMO 60% · RELOAD",
+    "m": "FIRE · R / RELOAD"
+  },
+  "replay": {
+    "phase": "BUILD YOUR FIRST TOWER",
+    "score": "POINTS 70",
+    "counters": "CRYSTAL 20/20",
+    "reload": "AMMO 100% · RELOAD",
+    "m": "SELECT TOWER · PAD · BUILD"
+  },
+  "finishedAt": "2026-09-13T07:18:42.326Z"
+}

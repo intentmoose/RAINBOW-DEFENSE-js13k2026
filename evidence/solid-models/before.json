@@ -1,0 +1,31 @@
+{
+  "method": "instrumented frozen production renderer; canonical geometry; fixed camera/light/time",
+  "views": [
+    {
+      "name": "nose",
+      "calls": 10,
+      "triangles": 498
+    },
+    {
+      "name": "side",
+      "calls": 10,
+      "triangles": 498
+    },
+    {
+      "name": "rear",
+      "calls": 10,
+      "triangles": 498
+    },
+    {
+      "name": "wing",
+      "calls": 11,
+      "triangles": 516
+    },
+    {
+      "name": "below",
+      "calls": 11,
+      "triangles": 516
+    }
+  ],
+  "errors": []
+}

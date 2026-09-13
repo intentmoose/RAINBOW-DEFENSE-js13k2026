@@ -1,0 +1,333 @@
+{
+  "sha256": "caba602b67aefafc27f1e17c48436e10ce08cfc1f6dba29f3d06409995b3d53f",
+  "bytes": 13310,
+  "method": "Unmodified extracted ZIP; Playwright mouse/keyboard/buttons; DOM observations only; no state injection or time acceleration",
+  "waves": [
+    {
+      "wave": 1,
+      "start": {
+        "phase": "DEFEND · WAVE 1/6",
+        "score": "POINTS 0",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 100% · RELOAD",
+        "mode": "RAINBOW LV1",
+        "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+      },
+      "samples": [
+        {
+          "phase": "DEFEND · WAVE 1/6",
+          "score": "POINTS 0",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 97% · RELOAD",
+          "mode": "RAINBOW LV1",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 1/6",
+          "score": "POINTS 20",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 35% · RELOAD",
+          "mode": "RAINBOW LV1",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 1/6",
+          "score": "POINTS 50",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 66% · RELOAD",
+          "mode": "RAINBOW LV1",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        }
+      ],
+      "end": {
+        "phase": "WAVE 1 COMPLETE!",
+        "score": "POINTS 83",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 51% · RELOAD",
+        "mode": "RAINBOW LV1",
+        "m": "AIM AT A TOWER"
+      },
+      "durationMs": 18554
+    },
+    {
+      "wave": 2,
+      "start": {
+        "phase": "DEFEND · WAVE 2/6",
+        "score": "POINTS 13",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 100% · RELOAD",
+        "mode": "RAINBOW LV1",
+        "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+      },
+      "samples": [
+        {
+          "phase": "DEFEND · WAVE 2/6",
+          "score": "POINTS 13",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 97% · RELOAD",
+          "mode": "RAINBOW LV1",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 2/6",
+          "score": "POINTS 23",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 35% · RELOAD",
+          "mode": "RAINBOW LV1",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 2/6",
+          "score": "POINTS 63",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 66% · RELOAD",
+          "mode": "RAINBOW LV1",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        }
+      ],
+      "end": {
+        "phase": "WAVE 2 COMPLETE!",
+        "score": "POINTS 129",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 11% · RELOAD",
+        "mode": "RAINBOW LV1",
+        "m": "AIM AT A TOWER"
+      },
+      "durationMs": 23627
+    },
+    {
+      "wave": 3,
+      "start": {
+        "phase": "DEFEND · WAVE 3/6",
+        "score": "POINTS 19",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 100% · RELOAD",
+        "mode": "SHOTGUN LV1",
+        "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+      },
+      "samples": [
+        {
+          "phase": "DEFEND · WAVE 3/6",
+          "score": "POINTS 19",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 88% · RELOAD",
+          "mode": "SHOTGUN LV1",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 3/6",
+          "score": "POINTS 19",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 38% · RELOAD",
+          "mode": "SHOTGUN LV1",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 3/6",
+          "score": "POINTS 32",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 88% · RELOAD",
+          "mode": "SHOTGUN LV1",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 3/6",
+          "score": "POINTS 158",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 38% · RELOAD",
+          "mode": "SHOTGUN LV1",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        }
+      ],
+      "end": {
+        "phase": "WAVE 3 COMPLETE!",
+        "score": "POINTS 222",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 63% · RELOAD",
+        "mode": "SHOTGUN LV1",
+        "m": "AIM AT A TOWER"
+      },
+      "durationMs": 35485
+    },
+    {
+      "wave": 4,
+      "start": {
+        "phase": "DEFEND · WAVE 4/6",
+        "score": "POINTS 67",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 100% · RELOAD",
+        "mode": "SHOTGUN LV2",
+        "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+      },
+      "samples": [
+        {
+          "phase": "DEFEND · WAVE 4/6",
+          "score": "POINTS 67",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 88% · RELOAD",
+          "mode": "SHOTGUN LV2",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 4/6",
+          "score": "POINTS 67",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 63% · RELOAD",
+          "mode": "SHOTGUN LV2",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 4/6",
+          "score": "POINTS 99",
+          "counters": "CRYSTAL 20/20",
+          "reload": "A/X/R: AUTO RELOAD",
+          "mode": "SHOTGUN LV2",
+          "m": "A/X/R: AUTO RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 4/6",
+          "score": "POINTS 218",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 50% · RELOAD",
+          "mode": "SHOTGUN LV2",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        }
+      ],
+      "end": {
+        "phase": "WAVE 4 COMPLETE!",
+        "score": "POINTS 321",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 38% · RELOAD",
+        "mode": "SHOTGUN LV2",
+        "m": "AIM AT A TOWER"
+      },
+      "durationMs": 38528
+    },
+    {
+      "wave": 5,
+      "start": {
+        "phase": "DEFEND · WAVE 5/6",
+        "score": "POINTS 266",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 100% · RELOAD",
+        "mode": "SNIPER LV2",
+        "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+      },
+      "samples": [
+        {
+          "phase": "DEFEND · WAVE 5/6",
+          "score": "POINTS 266",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 80% · RELOAD",
+          "mode": "SNIPER LV2",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 5/6",
+          "score": "POINTS 318",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 40% · RELOAD",
+          "mode": "SNIPER LV2",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 5/6",
+          "score": "POINTS 424",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 60% · RELOAD",
+          "mode": "SNIPER LV2",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 5/6",
+          "score": "POINTS 498",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 20% · RELOAD",
+          "mode": "SNIPER LV2",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        }
+      ],
+      "end": {
+        "phase": "WAVE 5 COMPLETE!",
+        "score": "POINTS 562",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 60% · RELOAD",
+        "mode": "SNIPER LV2",
+        "m": "AIM AT A TOWER"
+      },
+      "durationMs": 33917
+    },
+    {
+      "wave": 6,
+      "start": {
+        "phase": "DEFEND · WAVE 6/6",
+        "score": "POINTS 482",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 100% · RELOAD",
+        "mode": "SNIPER LV3",
+        "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+      },
+      "samples": [
+        {
+          "phase": "DEFEND · WAVE 6/6",
+          "score": "POINTS 482",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 80% · RELOAD",
+          "mode": "SNIPER LV3",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 6/6",
+          "score": "POINTS 550",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 40% · RELOAD",
+          "mode": "SNIPER LV3",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 6/6",
+          "score": "POINTS 656",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 60% · RELOAD",
+          "mode": "SNIPER LV3",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        },
+        {
+          "phase": "DEFEND · WAVE 6/6",
+          "score": "POINTS 787",
+          "counters": "CRYSTAL 20/20",
+          "reload": "AMMO 20% · RELOAD",
+          "mode": "SNIPER LV3",
+          "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+        }
+      ],
+      "end": {
+        "phase": "WAVE 6 COMPLETE!",
+        "score": "POINTS 870",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 60% · RELOAD",
+        "mode": "SNIPER LV3",
+        "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+      },
+      "durationMs": 39314
+    }
+  ],
+  "errors": [],
+  "result": "RAINBOW\nDEFENDED\n\nWave 6 · 11570 points\n\nNEW DEFENSE\nFire: trigger / hold mouse / touch\nMove: left stick / WASD · Turn: right stick\nA/X / R: reload · B / Q: weapon\nDrop empty → grip hip ammo → insert + release",
+  "final": {
+    "phase": "DEFEND · WAVE 6/6",
+    "score": "POINTS 870",
+    "counters": "CRYSTAL 20/20",
+    "reload": "AMMO 60% · RELOAD",
+    "mode": "SNIPER LV3",
+    "m": "HOLD TO FIRE · A/X/R: AUTO RELOAD"
+  },
+  "replay": {
+    "phase": "1. BUILD TOWER FIRST",
+    "score": "POINTS 70",
+    "counters": "CRYSTAL 20/20",
+    "reload": "AMMO 100% · RELOAD",
+    "mode": "RAINBOW LV1",
+    "m": "BUILD TOWER FIRST"
+  }
+}

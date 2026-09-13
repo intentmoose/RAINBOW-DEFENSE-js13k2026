@@ -1,0 +1,102 @@
+{
+  "browser": "153.0.8010.36",
+  "method": "actual production Web Audio synthesizer and cue expressions, OfflineAudioContext 48kHz mono; instrumentation and WAVs not shipped",
+  "cases": [
+    {
+      "name": "pistol",
+      "peak": 0.07717058062553406,
+      "rms": 0.004170333799133279,
+      "audibleDuration": 0.1141875
+    },
+    {
+      "name": "shotgun",
+      "peak": 0.0640697255730629,
+      "rms": 0.0053299143751386465,
+      "audibleDuration": 0.1895
+    },
+    {
+      "name": "sniper",
+      "peak": 0.07859425991773605,
+      "rms": 0.00577054013208072,
+      "audibleDuration": 0.2766458333333333
+    },
+    {
+      "name": "remove",
+      "peak": 0.023846380412578583,
+      "rms": 0.0018248742391092938,
+      "audibleDuration": 0.04416666666666667
+    },
+    {
+      "name": "insert",
+      "peak": 0.0233299657702446,
+      "rms": 0.0018339479880138297,
+      "audibleDuration": 0.0429375
+    },
+    {
+      "name": "ready",
+      "peak": 0.02452811785042286,
+      "rms": 0.001828651380110069,
+      "audibleDuration": 0.043125
+    },
+    {
+      "name": "prism",
+      "peak": 0.011590438894927502,
+      "rms": 0.000888254364838777,
+      "audibleDuration": 0.07829166666666666
+    },
+    {
+      "name": "slow",
+      "peak": 0.011661653406918049,
+      "rms": 0.000889170424909852,
+      "audibleDuration": 0.07897916666666667
+    },
+    {
+      "name": "recovery",
+      "peak": 0.02430403232574463,
+      "rms": 0.003164101716223105,
+      "audibleDuration": 0.317625
+    },
+    {
+      "name": "build",
+      "peak": 0.024269025772809982,
+      "rms": 0.0031607840209664927,
+      "audibleDuration": 0.31835416666666666
+    },
+    {
+      "name": "start",
+      "peak": 0.024409381672739983,
+      "rms": 0.0031583892971897903,
+      "audibleDuration": 0.31808333333333333
+    },
+    {
+      "name": "wave",
+      "peak": 0.05762653052806854,
+      "rms": 0.012488802292066134,
+      "audibleDuration": 0.8460208333333333
+    },
+    {
+      "name": "victory",
+      "peak": 0.057002339512109756,
+      "rms": 0.012485354166991092,
+      "audibleDuration": 0.8440625
+    },
+    {
+      "name": "damage",
+      "peak": 0.057735901325941086,
+      "rms": 0.0057325655926916495,
+      "audibleDuration": 0.2916458333333333
+    },
+    {
+      "name": "defeat",
+      "peak": 0.04964510723948479,
+      "rms": 0.009261802938036898,
+      "audibleDuration": 0.7947916666666667
+    },
+    {
+      "name": "mixed",
+      "peak": 0.23913681507110596,
+      "rms": 0.024003353879720968,
+      "audibleDuration": 0.8499166666666667
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "bundledSourceSha256": "c7e7ca283235ff8b62957ae8a6e5759d42b5fb8243c78bc9eb42142d78d7b2f8",
+  "results": [
+    {
+      "name": "rejected-boolean-types",
+      "iterations": 100,
+      "minifiedBytes": 29597,
+      "deflatedBytes": 13022,
+      "zipBytes": 13156
+    },
+    {
+      "name": "rejected-boolean-types",
+      "iterations": 30,
+      "minifiedBytes": 29597,
+      "deflatedBytes": 13031,
+      "zipBytes": 13165
+    },
+    {
+      "name": "selected",
+      "iterations": 100,
+      "minifiedBytes": 29687,
+      "deflatedBytes": 13049,
+      "zipBytes": 13183
+    },
+    {
+      "name": "selected-one-pass",
+      "iterations": 100,
+      "minifiedBytes": 29691,
+      "deflatedBytes": 13049,
+      "zipBytes": 13183
+    },
+    {
+      "name": "selected-five-passes",
+      "iterations": 100,
+      "minifiedBytes": 29687,
+      "deflatedBytes": 13049,
+      "zipBytes": 13183
+    },
+    {
+      "name": "selected-one-pass",
+      "iterations": 30,
+      "minifiedBytes": 29691,
+      "deflatedBytes": 13054,
+      "zipBytes": 13188
+    },
+    {
+      "name": "selected",
+      "iterations": 30,
+      "minifiedBytes": 29687,
+      "deflatedBytes": 13057,
+      "zipBytes": 13191
+    },
+    {
+      "name": "selected-five-passes",
+      "iterations": 30,
+      "minifiedBytes": 29687,
+      "deflatedBytes": 13057,
+      "zipBytes": 13191
+    },
+    {
+      "name": "drop-unused-frozen-presets",
+      "iterations": 100,
+      "minifiedBytes": 30245,
+      "deflatedBytes": 13143,
+      "zipBytes": 13277
+    },
+    {
+      "name": "drop-unused-frozen-presets",
+      "iterations": 30,
+      "minifiedBytes": 30245,
+      "deflatedBytes": 13151,
+      "zipBytes": 13285
+    },
+    {
+      "name": "standard",
+      "iterations": 30,
+      "minifiedBytes": 30632,
+      "deflatedBytes": 13324,
+      "zipBytes": 13458
+    },
+    {
+      "name": "standard",
+      "iterations": 100,
+      "minifiedBytes": 30632,
+      "deflatedBytes": 13324,
+      "zipBytes": 13458
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "label": "shadows",
+  "browser": "153.0.8010.36",
+  "three": "184",
+  "mode": "deterministic instrumented desktop renderer; local pinned A-Frame; not physical headset timing",
+  "errors": [],
+  "runs": [
+    {
+      "count": 1,
+      "render": {
+        "frame": 2,
+        "calls": 31,
+        "triangles": 2636,
+        "points": 240,
+        "lines": 48
+      },
+      "memory": {
+        "geometries": 18,
+        "textures": 1
+      },
+      "instanceBytes": 77140,
+      "geometryBytes": 42762,
+      "materials": 26,
+      "activeInstances": 50,
+      "syncMedianMs": 0.006,
+      "meshes": [
+        {
+          "geometry": "BufferGeometry",
+          "count": 1,
+          "capacity": 48
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 1,
+          "capacity": 48
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 1,
+          "capacity": 48
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 2,
+          "capacity": 96
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 1,
+          "capacity": 48
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 1,
+          "capacity": 144
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 1,
+          "capacity": 48
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 2,
+          "capacity": 96
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 2,
+          "capacity": 96
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 0,
+          "capacity": 96
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 2,
+          "capacity": 96
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 2,
+          "capacity": 96
+        },
+        {
+          "geometry": "SphereGeometry",
+          "count": 0,
+          "capacity": 48
+        },
+        {
+          "geometry": "PlaneGeometry",
+          "count": 1,
+          "capacity": 48
+        },
+        {
+          "geometry": "ConeGeometry",
+          "count": 18,
+          "capacity": 18
+        },
+        {
+          "geometry": "TorusGeometry",
+          "count": 6,
+          "capacity": 6
+        },
+        {
+          "geometry": "OctahedronGeometry",
+          "count": 3,
+          "capacity": 3
+        },
+        {
+          "geometry": "IcosahedronGeometry",
+          "count": 0,
+          "capacity": 64
+        },
+        {
+          "geometry": "CylinderGeometry",
+          "count": 6,
+          "capacity": 6
+        }
+      ]
+    },
+    {
+      "count": 16,
+      "render": {
+        "frame": 4,
+        "calls": 33,
+        "triangles": 10744,
+        "points": 240,
+        "lines": 48
+      },
+      "memory": {
+        "geometries": 20,
+        "textures": 1
+      },
+      "instanceBytes": 77140,
+      "geometryBytes": 42762,
+      "materials": 26,
+      "activeInstances": 319,
+      "syncMedianMs": 0.05719999998807907,
+      "meshes": [
+        {
+          "geometry": "BufferGeometry",
+          "count": 16,
+          "capacity": 48
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 16,
+          "capacity": 48
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 16,
+          "capacity": 48
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 32,
+          "capacity": 96
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 16,
+          "capacity": 48
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 18,
+          "capacity": 144
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 16,
+          "capacity": 48
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 32,
+          "capacity": 96
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 32,
+          "capacity": 96
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 8,
+          "capacity": 96
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 32,
+          "capacity": 96
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 32,
+          "capacity": 96
+        },
+        {
+          "geometry": "SphereGeometry",
+          "count": 4,
+          "capacity": 48
+        },
+        {
+          "geometry": "PlaneGeometry",
+          "count": 16,
+          "capacity": 48
+        },
+        {
+          "geometry": "ConeGeometry",
+          "count": 18,
+          "capacity": 18
+        },
+        {
+          "geometry": "TorusGeometry",
+          "count": 6,
+          "capacity": 6
+        },
+        {
+          "geometry": "OctahedronGeometry",
+          "count": 3,
+          "capacity": 3
+        },
+        {
+          "geometry": "IcosahedronGeometry",
+          "count": 0,
+          "capacity": 64
+        },
+        {
+          "geometry": "CylinderGeometry",
+          "count": 6,
+          "capacity": 6
+        }
+      ]
+    },
+    {
+      "count": 48,
+      "render": {
+        "frame": 6,
+        "calls": 33,
+        "triangles": 27912,
+        "points": 240,
+        "lines": 48
+      },
+      "memory": {
+        "geometries": 20,
+        "textures": 1
+      },
+      "instanceBytes": 77140,
+      "geometryBytes": 42762,
+      "materials": 26,
+      "activeInstances": 887,
+      "syncMedianMs": 0.16560000002384187,
+      "meshes": [
+        {
+          "geometry": "BufferGeometry",
+          "count": 48,
+          "capacity": 48
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 48,
+          "capacity": 48
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 48,
+          "capacity": 48
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 96,
+          "capacity": 96
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 48,
+          "capacity": 48
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 50,
+          "capacity": 144
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 48,
+          "capacity": 48
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 96,
+          "capacity": 96
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 96,
+          "capacity": 96
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 24,
+          "capacity": 96
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 96,
+          "capacity": 96
+        },
+        {
+          "geometry": "BufferGeometry",
+          "count": 96,
+          "capacity": 96
+        },
+        {
+          "geometry": "SphereGeometry",
+          "count": 12,
+          "capacity": 48
+        },
+        {
+          "geometry": "PlaneGeometry",
+          "count": 48,
+          "capacity": 48
+        },
+        {
+          "geometry": "ConeGeometry",
+          "count": 18,
+          "capacity": 18
+        },
+        {
+          "geometry": "TorusGeometry",
+          "count": 6,
+          "capacity": 6
+        },
+        {
+          "geometry": "OctahedronGeometry",
+          "count": 3,
+          "capacity": 3
+        },
+        {
+          "geometry": "IcosahedronGeometry",
+          "count": 0,
+          "capacity": 64
+        },
+        {
+          "geometry": "CylinderGeometry",
+          "count": 6,
+          "capacity": 6
+        }
+      ]
+    }
+  ],
+  "lifecycle": {
+    "empty": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      18,
+      6,
+      3,
+      0,
+      6
+    ],
+    "before": {
+      "geometries": 20,
+      "textures": 1
+    },
+    "after": {
+      "geometries": 20,
+      "textures": 1
+    }
+  }
+}

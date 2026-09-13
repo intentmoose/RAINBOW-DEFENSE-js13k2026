@@ -1,0 +1,13 @@
+{
+  "commit": "bb1dfd7aaad83e90e63e350c55f4d9e25b37f1c5",
+  "submodule": "17ec7aee234dc4a6d43904a35375a33d9b02d97c",
+  "method": "fresh authenticated recursive shallow clone; npm ci; fast-forward to final source; npm run test:13k",
+  "tests": 55,
+  "passed": 55,
+  "localFullTests": 56,
+  "bytes": 13310,
+  "sha256": "caba602b67aefafc27f1e17c48436e10ce08cfc1f6dba29f3d06409995b3d53f",
+  "cloneIdentical": true,
+  "sitesArchiveIdentical": true,
+  "publicCloneVerified": false
+}

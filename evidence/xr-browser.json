@@ -1,0 +1,973 @@
+{
+  "browser": "153.0.8010.36",
+  "iwer": "2.3.0",
+  "mode": "packed instrumented production source; actual IWER poses and button events; not headset hardware or the unmodified competition artifact",
+  "errors": [],
+  "requests": [
+    "http://127.0.0.1:4173/xr-test",
+    "https://play.js13kgames.com/2026/webxr/aframe.js",
+    "https://cdn.aframe.io/controllers/hands/rightHandLow.glb",
+    "https://cdn.aframe.io/controllers/hands/leftHandLow.glb"
+  ],
+  "handModels": [
+    {
+      "hand": "left",
+      "skinned": 1,
+      "clips": [
+        "Grip",
+        "Hold",
+        "Point",
+        "Thumb Up",
+        "Fist",
+        "Open",
+        "Point + Thumb"
+      ]
+    },
+    {
+      "hand": "right",
+      "skinned": 1,
+      "clips": [
+        "Point + Thumb",
+        "Grip",
+        "Hold",
+        "Fist",
+        "Open",
+        "Point",
+        "Thumb Up"
+      ],
+      "gesture": "Fist"
+    }
+  ],
+  "throwMotion": {
+    "thrownFrom": [
+      0.5188871452957393,
+      1.405547947883606,
+      5.8803885899901385
+    ],
+    "thrownTo": [
+      0.6790542036790622,
+      1.2997292505548632,
+      5.8803885899902095
+    ]
+  },
+  "records": [
+    {
+      "label": "left movement and latched right snap turn",
+      "state": {
+        "active": 1,
+        "score": 0,
+        "wave": 0,
+        "mode": 0,
+        "firing": false,
+        "holding": 0,
+        "gunHand": "right",
+        "input": "right"
+      },
+      "weapon": {
+        "energy": 12,
+        "seated": true,
+        "primed": true,
+        "travel": 0,
+        "trigger": false,
+        "blocked": true,
+        "assist": 0
+      },
+      "hint": "GRIP MAGAZINE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Open",
+          "visible": true
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 136,
+        "calls": 200,
+        "triangles": 12228,
+        "points": 0,
+        "lines": 0
+      },
+      "memory": {
+        "geometries": 29,
+        "textures": 9
+      }
+    },
+    {
+      "label": "all five models visible; locked card rejects equip",
+      "state": {
+        "active": 1,
+        "score": 0,
+        "wave": 0,
+        "mode": 0,
+        "firing": false,
+        "holding": 0,
+        "gunHand": "right",
+        "input": "right"
+      },
+      "weapon": {
+        "energy": 12,
+        "seated": true,
+        "primed": true,
+        "travel": 0,
+        "trigger": false,
+        "blocked": false,
+        "assist": 0
+      },
+      "hint": "GRIP MAGAZINE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Open",
+          "visible": true
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 159,
+        "calls": 202,
+        "triangles": 12252,
+        "points": 0,
+        "lines": 0
+      },
+      "memory": {
+        "geometries": 29,
+        "textures": 9
+      }
+    },
+    {
+      "label": "first tower built",
+      "state": {
+        "active": 1,
+        "score": 0,
+        "wave": 0,
+        "mode": 0,
+        "firing": false,
+        "holding": 0,
+        "gunHand": "right",
+        "input": "right"
+      },
+      "weapon": {
+        "energy": 12,
+        "seated": true,
+        "primed": true,
+        "travel": 0,
+        "trigger": false,
+        "blocked": false,
+        "assist": 0
+      },
+      "hint": "GRIP MAGAZINE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Open",
+          "visible": true
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 200,
+        "calls": 228,
+        "triangles": 13044,
+        "points": 0,
+        "lines": 0
+      },
+      "memory": {
+        "geometries": 29,
+        "textures": 9
+      }
+    },
+    {
+      "label": "nearby tower menu rejects unaffordable upgrade",
+      "state": {
+        "active": 1,
+        "score": 0,
+        "wave": 0,
+        "mode": 0,
+        "firing": false,
+        "holding": 0,
+        "gunHand": "right",
+        "input": "right"
+      },
+      "weapon": {
+        "energy": 12,
+        "seated": true,
+        "primed": true,
+        "travel": 0,
+        "trigger": false,
+        "blocked": false,
+        "assist": 0
+      },
+      "hint": "GRIP MAGAZINE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Open",
+          "visible": true
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 249,
+        "calls": 228,
+        "triangles": 13044,
+        "points": 0,
+        "lines": 0
+      },
+      "memory": {
+        "geometries": 30,
+        "textures": 10
+      }
+    },
+    {
+      "label": "first recovery with trigger",
+      "state": {
+        "active": 1,
+        "score": 100,
+        "wave": 1,
+        "mode": 0,
+        "firing": false,
+        "holding": 0,
+        "gunHand": "right",
+        "input": "right"
+      },
+      "weapon": {
+        "energy": 9,
+        "seated": true,
+        "primed": true,
+        "travel": 0,
+        "trigger": false,
+        "blocked": false,
+        "assist": 0
+      },
+      "hint": "GRIP MAGAZINE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Open",
+          "visible": true
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 322,
+        "calls": 248,
+        "triangles": 14152,
+        "points": 32,
+        "lines": 0
+      },
+      "memory": {
+        "geometries": 42,
+        "textures": 10
+      }
+    },
+    {
+      "label": "magazine thrown with controller motion",
+      "state": {
+        "active": 1,
+        "score": 100,
+        "wave": 1,
+        "mode": 0,
+        "firing": false,
+        "holding": 0,
+        "gunHand": "right",
+        "input": "right"
+      },
+      "weapon": {
+        "energy": 9,
+        "seated": false,
+        "primed": false,
+        "travel": 0,
+        "trigger": false,
+        "blocked": true,
+        "assist": 0
+      },
+      "hint": "GRIP HIP MAGAZINE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Open",
+          "visible": true
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 362,
+        "calls": 236,
+        "triangles": 13984,
+        "points": 32,
+        "lines": 72
+      },
+      "memory": {
+        "geometries": 42,
+        "textures": 10
+      }
+    },
+    {
+      "label": "VR automatic reload inputs blocked",
+      "state": {
+        "active": 1,
+        "score": 100,
+        "wave": 1,
+        "mode": 0,
+        "firing": false,
+        "holding": 0,
+        "gunHand": "right",
+        "input": "right"
+      },
+      "weapon": {
+        "energy": 9,
+        "seated": false,
+        "primed": false,
+        "travel": 0,
+        "trigger": false,
+        "blocked": true,
+        "assist": 0
+      },
+      "hint": "GRIP HIP MAGAZINE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Open",
+          "visible": true
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 406,
+        "calls": 234,
+        "triangles": 13984,
+        "points": 0,
+        "lines": 72
+      },
+      "memory": {
+        "geometries": 42,
+        "textures": 10
+      }
+    },
+    {
+      "label": "cartridge removed",
+      "state": {
+        "active": 1,
+        "score": 100,
+        "wave": 1,
+        "mode": 0,
+        "firing": false,
+        "holding": 1,
+        "gunHand": "right",
+        "input": "right"
+      },
+      "weapon": {
+        "energy": 12,
+        "seated": false,
+        "primed": false,
+        "travel": 0,
+        "trigger": false,
+        "blocked": true,
+        "assist": 0
+      },
+      "hint": "INSERT + RELEASE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Fist",
+          "visible": true
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 461,
+        "calls": 248,
+        "triangles": 15304,
+        "points": 0,
+        "lines": 72
+      },
+      "memory": {
+        "geometries": 42,
+        "textures": 10
+      }
+    },
+    {
+      "label": "left hip fresh magazine",
+      "state": {
+        "active": 1,
+        "score": 100,
+        "wave": 1,
+        "mode": 0,
+        "firing": false,
+        "holding": 1,
+        "gunHand": "right",
+        "input": "right"
+      },
+      "weapon": {
+        "energy": 12,
+        "seated": false,
+        "primed": false,
+        "travel": 0,
+        "trigger": false,
+        "blocked": true,
+        "assist": 0
+      },
+      "hint": "INSERT + RELEASE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Fist",
+          "visible": true
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 486,
+        "calls": 232,
+        "triangles": 14492,
+        "points": 0,
+        "lines": 72
+      },
+      "memory": {
+        "geometries": 42,
+        "textures": 10
+      }
+    },
+    {
+      "label": "automatic chamber ready",
+      "state": {
+        "active": 1,
+        "score": 100,
+        "wave": 1,
+        "mode": 0,
+        "firing": false,
+        "holding": 0,
+        "gunHand": "right",
+        "input": "right"
+      },
+      "weapon": {
+        "energy": 12,
+        "seated": true,
+        "primed": true,
+        "travel": 0,
+        "trigger": false,
+        "blocked": true,
+        "assist": 0
+      },
+      "hint": "GRIP MAGAZINE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Open",
+          "visible": true
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 524,
+        "calls": 246,
+        "triangles": 16456,
+        "points": 0,
+        "lines": 0
+      },
+      "memory": {
+        "geometries": 42,
+        "textures": 10
+      }
+    },
+    {
+      "label": "one controller requires hands",
+      "state": {
+        "active": 1,
+        "score": 100,
+        "wave": 1,
+        "mode": 0,
+        "firing": false,
+        "holding": 0,
+        "gunHand": "right",
+        "input": "right"
+      },
+      "weapon": {
+        "energy": 12,
+        "seated": false,
+        "primed": false,
+        "travel": 0,
+        "trigger": false,
+        "blocked": true,
+        "assist": 0
+      },
+      "hint": "GRIP HIP MAGAZINE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Open",
+          "visible": false
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 574,
+        "calls": 232,
+        "triangles": 15644,
+        "points": 0,
+        "lines": 72
+      },
+      "memory": {
+        "geometries": 42,
+        "textures": 10
+      }
+    },
+    {
+      "label": "exit",
+      "state": {
+        "active": 1,
+        "score": 100,
+        "wave": 1,
+        "mode": 0,
+        "firing": false,
+        "holding": 0,
+        "gunHand": "right"
+      },
+      "weapon": {
+        "energy": 12,
+        "seated": false,
+        "primed": false,
+        "travel": 0,
+        "trigger": false,
+        "blocked": true,
+        "assist": 0
+      },
+      "hint": "R / RELOAD",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Open",
+          "visible": false
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": false
+        }
+      ],
+      "render": {
+        "frame": 587,
+        "calls": 124,
+        "triangles": 7774,
+        "points": 0,
+        "lines": 36
+      },
+      "memory": {
+        "geometries": 42,
+        "textures": 10
+      }
+    },
+    {
+      "label": "desktop assisted recovery",
+      "state": {
+        "active": 1,
+        "score": 100,
+        "wave": 1,
+        "mode": 0,
+        "firing": false,
+        "holding": 0,
+        "gunHand": "right"
+      },
+      "weapon": {
+        "energy": 12,
+        "seated": true,
+        "primed": true,
+        "travel": 0,
+        "trigger": false,
+        "blocked": true,
+        "assist": 0
+      },
+      "hint": "R / RELOAD",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Open",
+          "visible": false
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": false
+        }
+      ],
+      "render": {
+        "frame": 647,
+        "calls": 130,
+        "triangles": 8434,
+        "points": 0,
+        "lines": 0
+      },
+      "memory": {
+        "geometries": 42,
+        "textures": 10
+      }
+    },
+    {
+      "label": "reentry",
+      "state": {
+        "active": 1,
+        "score": 100,
+        "wave": 1,
+        "mode": 0,
+        "firing": false,
+        "holding": 0,
+        "gunHand": "right",
+        "input": "right"
+      },
+      "weapon": {
+        "energy": 12,
+        "seated": true,
+        "primed": true,
+        "travel": 0,
+        "trigger": false,
+        "blocked": true,
+        "assist": 0
+      },
+      "hint": "GRIP MAGAZINE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Open",
+          "visible": false
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 673,
+        "calls": 244,
+        "triangles": 16964,
+        "points": 0,
+        "lines": 0
+      },
+      "memory": {
+        "geometries": 42,
+        "textures": 10
+      }
+    },
+    {
+      "label": "shotgun unlocked",
+      "state": {
+        "active": 1,
+        "score": 100,
+        "wave": 1,
+        "mode": 1,
+        "firing": false,
+        "holding": 0,
+        "gunHand": "right",
+        "input": "right"
+      },
+      "weapon": {
+        "energy": 12,
+        "seated": true,
+        "primed": true,
+        "travel": 0,
+        "trigger": false,
+        "blocked": false,
+        "assist": 0
+      },
+      "hint": "GRIP MAGAZINE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Open",
+          "visible": false
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 695,
+        "calls": 246,
+        "triangles": 18180,
+        "points": 0,
+        "lines": 0
+      },
+      "memory": {
+        "geometries": 42,
+        "textures": 10
+      }
+    },
+    {
+      "label": "sniper unlocked",
+      "state": {
+        "active": 1,
+        "score": 100,
+        "wave": 1,
+        "mode": 2,
+        "firing": false,
+        "holding": 0,
+        "gunHand": "right",
+        "input": "right"
+      },
+      "weapon": {
+        "energy": 12,
+        "seated": true,
+        "primed": true,
+        "travel": 0,
+        "trigger": false,
+        "blocked": false,
+        "assist": 0
+      },
+      "hint": "GRIP MAGAZINE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Open",
+          "visible": false
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 717,
+        "calls": 250,
+        "triangles": 18228,
+        "points": 0,
+        "lines": 0
+      },
+      "memory": {
+        "geometries": 42,
+        "textures": 10
+      }
+    },
+    {
+      "label": "physical gun handover",
+      "state": {
+        "active": 1,
+        "score": 100,
+        "wave": 1,
+        "mode": 2,
+        "firing": false,
+        "holding": 0,
+        "gunHand": "left",
+        "input": "left"
+      },
+      "weapon": {
+        "energy": 12,
+        "seated": true,
+        "primed": true,
+        "travel": 0,
+        "trigger": false,
+        "blocked": true,
+        "assist": 0
+      },
+      "hint": "GRIP MAGAZINE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Fist",
+          "visible": true
+        },
+        {
+          "hand": "right",
+          "pose": "Open",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 751,
+        "calls": 252,
+        "triangles": 18872,
+        "points": 0,
+        "lines": 0
+      },
+      "memory": {
+        "geometries": 42,
+        "textures": 10
+      }
+    },
+    {
+      "label": "left gun cartridge removed",
+      "state": {
+        "active": 1,
+        "score": 100,
+        "wave": 1,
+        "mode": 2,
+        "firing": false,
+        "holding": 1,
+        "gunHand": "left",
+        "input": "left"
+      },
+      "weapon": {
+        "energy": 12,
+        "seated": false,
+        "primed": false,
+        "travel": 0,
+        "trigger": false,
+        "blocked": true,
+        "assist": 0
+      },
+      "hint": "INSERT + RELEASE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Fist",
+          "visible": true
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 774,
+        "calls": 254,
+        "triangles": 18872,
+        "points": 0,
+        "lines": 74
+      },
+      "memory": {
+        "geometries": 42,
+        "textures": 10
+      }
+    },
+    {
+      "label": "right hip fresh magazine",
+      "state": {
+        "active": 1,
+        "score": 100,
+        "wave": 1,
+        "mode": 2,
+        "firing": false,
+        "holding": 1,
+        "gunHand": "left",
+        "input": "left"
+      },
+      "weapon": {
+        "energy": 12,
+        "seated": false,
+        "primed": false,
+        "travel": 0,
+        "trigger": false,
+        "blocked": true,
+        "assist": 0
+      },
+      "hint": "INSERT + RELEASE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Fist",
+          "visible": true
+        },
+        {
+          "hand": "right",
+          "pose": "Fist",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 793,
+        "calls": 238,
+        "triangles": 18060,
+        "points": 0,
+        "lines": 72
+      },
+      "memory": {
+        "geometries": 42,
+        "textures": 10
+      }
+    },
+    {
+      "label": "left gun ready",
+      "state": {
+        "active": 1,
+        "score": 100,
+        "wave": 1,
+        "mode": 2,
+        "firing": false,
+        "holding": 0,
+        "gunHand": "left",
+        "input": "left"
+      },
+      "weapon": {
+        "energy": 12,
+        "seated": true,
+        "primed": true,
+        "travel": 0,
+        "trigger": false,
+        "blocked": true,
+        "assist": 0
+      },
+      "hint": "GRIP MAGAZINE",
+      "handPoses": [
+        {
+          "hand": "left",
+          "pose": "Fist",
+          "visible": true
+        },
+        {
+          "hand": "right",
+          "pose": "Open",
+          "visible": true
+        }
+      ],
+      "render": {
+        "frame": 810,
+        "calls": 252,
+        "triangles": 18872,
+        "points": 0,
+        "lines": 2
+      },
+      "memory": {
+        "geometries": 42,
+        "textures": 10
+      }
+    }
+  ]
+}

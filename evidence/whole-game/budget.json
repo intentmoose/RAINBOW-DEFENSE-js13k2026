@@ -1,0 +1,13 @@
+{
+  "zipBytes": 13025,
+  "limit": 13312,
+  "reserve": 287,
+  "previousLiveBytes": 13298,
+  "reductionFromPrevious": 273,
+  "sha256": "f99676583cca6f1235e4055de5fcd706cdf298e31000268789a9d26fdd9cc798",
+  "entries": [
+    "index.html"
+  ],
+  "unpackedHtmlBytes": 34956,
+  "sameSourceWithoutPackingZipBytes": 14069
+}

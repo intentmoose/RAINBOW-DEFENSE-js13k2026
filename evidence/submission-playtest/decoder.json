@@ -1,0 +1,77 @@
+{
+  "scope": "desktop decoder only; engine/network/render startup excluded; not Quest",
+  "report": [
+    {
+      "browser": "Chrome",
+      "variant": "previous",
+      "times": [
+        {
+          "ms": 1069.9000000059605,
+          "characters": 37132
+        },
+        {
+          "ms": 990.5,
+          "characters": 37132
+        },
+        {
+          "ms": 962.2999999821186,
+          "characters": 37132
+        }
+      ]
+    },
+    {
+      "browser": "Chrome",
+      "variant": "submission fix",
+      "times": [
+        {
+          "ms": 992.0999999940395,
+          "characters": 37133
+        },
+        {
+          "ms": 989.8000000119209,
+          "characters": 37133
+        },
+        {
+          "ms": 1027.2999999821186,
+          "characters": 37133
+        }
+      ]
+    },
+    {
+      "browser": "Firefox",
+      "variant": "previous",
+      "times": [
+        {
+          "ms": 839,
+          "characters": 37132
+        },
+        {
+          "ms": 735,
+          "characters": 37132
+        },
+        {
+          "ms": 723,
+          "characters": 37132
+        }
+      ]
+    },
+    {
+      "browser": "Firefox",
+      "variant": "submission fix",
+      "times": [
+        {
+          "ms": 850,
+          "characters": 37133
+        },
+        {
+          "ms": 725,
+          "characters": 37133
+        },
+        {
+          "ms": 853,
+          "characters": 37133
+        }
+      ]
+    }
+  ]
+}

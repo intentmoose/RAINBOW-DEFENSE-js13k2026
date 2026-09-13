@@ -1,0 +1,36 @@
+{
+  "packer": "roadroller@2.1.0",
+  "options": {
+    "modelRecipBaseCount": 17,
+    "sparseSelectors": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      12,
+      13,
+      21,
+      42,
+      50,
+      57,
+      177,
+      204,
+      263,
+      265,
+      346,
+      4,
+      5,
+      6,
+      8
+    ],
+    "precision": 15,
+    "recipLearningRate": 1800,
+    "modelMaxCount": 4,
+    "numAbbreviations": 0,
+    "dynamicModels": 0,
+    "maxMemoryMB": 128,
+    "allowFreeVars": false
+  },
+  "modelMemoryMB": 120.1629638671875
+}

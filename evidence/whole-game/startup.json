@@ -1,0 +1,101 @@
+{
+  "scope": "Desktop game-script initialization, including decoder for packed variant. Engine load/network excluded; no physical Quest timing.",
+  "results": [
+    {
+      "browser": "Chrome",
+      "version": "153.0.8010.36",
+      "variant": "plain",
+      "run": 0,
+      "startupMs": 82.7999999821186,
+      "errors": []
+    },
+    {
+      "browser": "Chrome",
+      "version": "153.0.8010.36",
+      "variant": "plain",
+      "run": 1,
+      "startupMs": 24,
+      "errors": []
+    },
+    {
+      "browser": "Chrome",
+      "version": "153.0.8010.36",
+      "variant": "plain",
+      "run": 2,
+      "startupMs": 28.099999994039536,
+      "errors": []
+    },
+    {
+      "browser": "Chrome",
+      "version": "153.0.8010.36",
+      "variant": "packed",
+      "run": 0,
+      "startupMs": 668.4000000059605,
+      "errors": []
+    },
+    {
+      "browser": "Chrome",
+      "version": "153.0.8010.36",
+      "variant": "packed",
+      "run": 1,
+      "startupMs": 680.2000000178814,
+      "errors": []
+    },
+    {
+      "browser": "Chrome",
+      "version": "153.0.8010.36",
+      "variant": "packed",
+      "run": 2,
+      "startupMs": 651.8000000119209,
+      "errors": []
+    },
+    {
+      "browser": "Firefox",
+      "version": "155.0",
+      "variant": "plain",
+      "run": 0,
+      "startupMs": 223,
+      "errors": []
+    },
+    {
+      "browser": "Firefox",
+      "version": "155.0",
+      "variant": "plain",
+      "run": 1,
+      "startupMs": 148,
+      "errors": []
+    },
+    {
+      "browser": "Firefox",
+      "version": "155.0",
+      "variant": "plain",
+      "run": 2,
+      "startupMs": 169,
+      "errors": []
+    },
+    {
+      "browser": "Firefox",
+      "version": "155.0",
+      "variant": "packed",
+      "run": 0,
+      "startupMs": 605,
+      "errors": []
+    },
+    {
+      "browser": "Firefox",
+      "version": "155.0",
+      "variant": "packed",
+      "run": 1,
+      "startupMs": 596,
+      "errors": []
+    },
+    {
+      "browser": "Firefox",
+      "version": "155.0",
+      "variant": "packed",
+      "run": 2,
+      "startupMs": 590,
+      "errors": []
+    }
+  ]
+}

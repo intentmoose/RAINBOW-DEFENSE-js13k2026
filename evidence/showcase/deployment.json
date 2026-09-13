@@ -1,0 +1,28 @@
+{
+  "version": 19,
+  "source": "6e60544661237423580ab7a49ca17398561c14c0",
+  "deployment": {
+    "id": "appgdep_6aa5ee9d043481918abe009c9c8d756b",
+    "project_id": "appgprj_6a7e0d3fab40819181f6efdcf97c7716",
+    "title": "Rainbow Herd",
+    "version_id": "appgprj_6a7e0d3fab40819181f6efdcf97c7716~appgver_d3203001011481918e6392a8ba6543e6",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://cartesius-rainbow-herd.rel-coh3n.chatgpt.site",
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6a7e0d3fab40819181f6efdcf97c7716",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-09-13T00:30:51.007570+00:00"
+  },
+  "zipBytes": 13300,
+  "sha256": "35f352ffa8aa6d1ebd649ef5a7f5fa847ab6eac69e38ebe0b82c06a35d88120e",
+  "ui": {
+    "url": "https://cartesius-rainbow-herd.rel-coh3n.chatgpt.site/play/",
+    "status": 200,
+    "opening": "Fire: trigger / hold mouse / right touch\nMove: left stick / WASD / left drag · Turn: right stick\nA/X / R: 1-second reload + recall · B / Q: weapon\nManual: drop empty → grip hip ammo → insert + release → ready",
+    "progress": "RELOADING 10%",
+    "reload": "AMMO 100% · RELOAD",
+    "errors": []
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "release": 23,
+  "sha256": "a63ff9079ffa3795c08d64cd86d585d06c03b682ddbbe5a3f58647d7d7fc1cd8",
+  "results": [
+    {
+      "browser": "Firefox",
+      "version": "155.0",
+      "crystal": "CRYSTAL 20/20",
+      "score": 11570,
+      "unspent": "POINTS 870",
+      "elapsedSeconds": 222,
+      "replay": {
+        "phase": "BUILD YOUR FIRST TOWER",
+        "score": "POINTS 70",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 100% · RELOAD",
+        "m": "SELECT TOWER · PAD · BUILD"
+      },
+      "waves": [
+        {
+          "wave": 1,
+          "health": "CRYSTAL 20/20",
+          "seconds": 19
+        },
+        {
+          "wave": 2,
+          "health": "CRYSTAL 20/20",
+          "seconds": 23
+        },
+        {
+          "wave": 3,
+          "health": "CRYSTAL 20/20",
+          "seconds": 34
+        },
+        {
+          "wave": 4,
+          "health": "CRYSTAL 20/20",
+          "seconds": 37
+        },
+        {
+          "wave": 5,
+          "health": "CRYSTAL 20/20",
+          "seconds": 34
+        },
+        {
+          "wave": 6,
+          "health": "CRYSTAL 20/20",
+          "seconds": 36
+        }
+      ]
+    },
+    {
+      "browser": "Chrome",
+      "version": "153.0.8010.36",
+      "crystal": "CRYSTAL 20/20",
+      "score": 11570,
+      "unspent": "POINTS 870",
+      "elapsedSeconds": 226,
+      "replay": {
+        "phase": "BUILD YOUR FIRST TOWER",
+        "score": "POINTS 70",
+        "counters": "CRYSTAL 20/20",
+        "reload": "AMMO 100% · RELOAD",
+        "m": "SELECT TOWER · PAD · BUILD"
+      },
+      "waves": [
+        {
+          "wave": 1,
+          "health": "CRYSTAL 20/20",
+          "seconds": 19
+        },
+        {
+          "wave": 2,
+          "health": "CRYSTAL 20/20",
+          "seconds": 23
+        },
+        {
+          "wave": 3,
+          "health": "CRYSTAL 20/20",
+          "seconds": 34
+        },
+        {
+          "wave": 4,
+          "health": "CRYSTAL 20/20",
+          "seconds": 38
+        },
+        {
+          "wave": 5,
+          "health": "CRYSTAL 20/20",
+          "seconds": 34
+        },
+        {
+          "wave": 6,
+          "health": "CRYSTAL 20/20",
+          "seconds": 41
+        }
+      ]
+    }
+  ]
+}

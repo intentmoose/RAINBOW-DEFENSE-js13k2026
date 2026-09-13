@@ -1,0 +1,54 @@
+{
+  "browser": "153.0.8010.36",
+  "scope": "Compiled prototypes; local pinned A-Frame; opening, tower purchase and wave start only. Not XR or physical-device validation.",
+  "checks": [
+    {
+      "name": "baseline",
+      "firstTowerCredits": 35,
+      "waveStarted": true,
+      "errors": []
+    },
+    {
+      "name": "double-hud-resolution",
+      "firstTowerCredits": 35,
+      "waveStarted": true,
+      "errors": []
+    },
+    {
+      "name": "smooth-rainbow",
+      "firstTowerCredits": 35,
+      "waveStarted": true,
+      "errors": []
+    },
+    {
+      "name": "rounder-shield",
+      "firstTowerCredits": 35,
+      "waveStarted": true,
+      "errors": []
+    },
+    {
+      "name": "rounder-pads",
+      "firstTowerCredits": 35,
+      "waveStarted": true,
+      "errors": []
+    },
+    {
+      "name": "keep-unused-attributes",
+      "firstTowerCredits": 35,
+      "waveStarted": true,
+      "errors": []
+    },
+    {
+      "name": "hud-rainbow-and-simpler-geometry-code",
+      "firstTowerCredits": 35,
+      "waveStarted": true,
+      "errors": []
+    },
+    {
+      "name": "denser-scenery",
+      "firstTowerCredits": 35,
+      "waveStarted": true,
+      "errors": []
+    }
+  ]
+}

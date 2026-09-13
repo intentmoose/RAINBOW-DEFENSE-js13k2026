@@ -1,0 +1,68 @@
+name: Rainbow Herd release gate
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: rainbow-herd-release-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  competition:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out complete source
+        uses: actions/checkout@v7
+        with:
+          submodules: recursive
+          token: ${{ secrets.TINY_UNICORN_TOKEN || github.token }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Verify shared dependency
+        shell: bash
+        run: |
+          test -f vendor/tiny-unicorn-lab/src/tiny-unicorn.js
+          git submodule status --recursive
+          test "$(git ls-tree HEAD vendor/tiny-unicorn-lab | awk '{print $3}')" = "$(git -C vendor/tiny-unicorn-lab rev-parse HEAD)"
+
+      - name: Install locked dependencies
+        run: npm ci
+
+      - name: Build competition artifact
+        run: npm run build:game
+
+      - name: Audit ZIP shape, size, and external URLs
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import re
+          from pathlib import Path
+          from zipfile import ZipFile
+
+          archive = Path("competition/rainbow-herd.zip")
+          size = archive.stat().st_size
+          assert size <= 13_312, f"artifact is {size} bytes"
+          with ZipFile(archive) as package:
+              names = sorted(package.namelist())
+              assert names == ["index.html"], f"unexpected archive entries: {names}"
+              payload = "".join(package.read(name).decode() for name in names)
+          urls = re.findall(r"https?://[^\"'<>\s)]+", payload)
+          allowed = ["https://play.js13kgames.com/2026/webxr/aframe.js"]
+          assert urls == allowed, f"external URL audit failed: {urls}"
+          print(f"Rainbow Herd: {size} / 13,312 bytes; SHA-256 checked next")
+          PY
+          sha256sum competition/rainbow-herd.zip
+
+      - name: Run gameplay and competition tests
+        run: npm run test:game

@@ -1,0 +1,17 @@
+{
+  "sourceSHA": "18e6642cdf205e7a555e227cd8ba7ead7c7666e7",
+  "version": 17,
+  "versionId": "appgprj_6a7e0d3fab40819181f6efdcf97c7716~appgver_bb0e146fbb3481918e39f55a21f79973",
+  "deploymentId": "appgdep_6aa5e742206881919854482d006b0af0",
+  "deployedAt": "2026-09-12T23:59:10.022013+00:00",
+  "zipBytes": 13188,
+  "sha256": "da16debe9c8c054d47fe3873b63323c60c94e445d1a39fc341af24616104dfec",
+  "ui": {
+    "url": "https://cartesius-rainbow-herd.rel-coh3n.chatgpt.site/play/",
+    "status": 200,
+    "opening": "Fire: trigger / hold mouse / right touch\nMove: left stick / WASD / left drag · Turn: right stick\nA/X / R: 1-second reload + recall · B / Q: weapon\nManual: drop empty → grip hip ammo → insert + release → ready",
+    "progress": "RELOADING 10%",
+    "reload": "RELOAD 100%",
+    "errors": []
+  }
+}

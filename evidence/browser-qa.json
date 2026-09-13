@@ -1,0 +1,117 @@
+{
+  "checkedAt": "2026-09-12T12:54:27.403Z",
+  "method": "Headless installed Chrome, direct organizer engine URL; normal mouse/key and CDP native touch events; no debug hooks or progression injection.",
+  "url": "http://127.0.0.1:4173/competition/dist/",
+  "chrome": "153.0.8010.36",
+  "desktop": {
+    "viewport": {
+      "width": 1100,
+      "height": 760
+    },
+    "htmlSha256": "8f97a40103b782e18f1589978c9cd1f945012c9ca0f627b9119aab2339de9747",
+    "samples": [
+      {
+        "stage": "first centered hold 3.5s",
+        "text": "BUILD THE HERD\nRAINBOW 167 · 3s\nHERD 1\nLOST 2\nHOLD TO CLEANSE\nFRIEND RECOVERED — IT FIGHTS WITH YOU\nRELOAD 71%\nENTER VR"
+      },
+      {
+        "stage": "reload mid",
+        "text": "HERD\nLOST\n\n8 SECONDS · 1 FRIENDS\nMAX HERD 1 · SCORE 187\nBEST 187\n\nRUN AGAIN\nAim + hold to fire · WASD / left touch moves · M / gun grip rides � R / A reloads � H swaps hands\nOffhand grip: remove cartridge, seat it, pull top bar, release.\nBUILD THE HERD\nRAINBOW 187 · 8s\nHERD 0\nLOST 3\nYOUR LIGHT 0%\nA FRIEND WAS CORRUPTED — WIN THEM BACK\nENTER VR"
+      },
+      {
+        "stage": "reload complete",
+        "text": "HERD\nLOST\n\n8 SECONDS · 1 FRIENDS\nMAX HERD 1 · SCORE 187\nBEST 187\n\nRUN AGAIN\nAim + hold to fire · WASD / left touch moves · M / gun grip rides � R / A reloads � H swaps hands\nOffhand grip: remove cartridge, seat it, pull top bar, release.\nBUILD THE HERD\nRAINBOW 187 · 8s\nHERD 0\nLOST 3\nYOUR LIGHT 0%\nA FRIEND WAS CORRUPTED — WIN THEM BACK\nENTER VR"
+      },
+      {
+        "stage": "held trigger reload complete",
+        "text": "HERD\nLOST\n\n8 SECONDS · 1 FRIENDS\nMAX HERD 1 · SCORE 187\nBEST 187\n\nRUN AGAIN\nAim + hold to fire · WASD / left touch moves · M / gun grip rides � R / A reloads � H swaps hands\nOffhand grip: remove cartridge, seat it, pull top bar, release.\nBUILD THE HERD\nRAINBOW 187 · 8s\nHERD 0\nLOST 3\nYOUR LIGHT 0%\nA FRIEND WAS CORRUPTED — WIN THEM BACK\nENTER VR"
+      },
+      {
+        "stage": "restart first recovery",
+        "text": "BUILD THE HERD\nRAINBOW 163 · 2s\nHERD 1\nLOST 2\nHOLD TO CLEANSE\nFRIEND RECOVERED — IT FIGHTS WITH YOU\nRELOAD 76%\nENTER VR"
+      },
+      {
+        "stage": "live reload mid",
+        "text": "BUILD THE HERD\nRAINBOW 167 · 3s\nHERD 1\nLOST 2\nHOLD TO CLEANSE\nFRIEND RECOVERED — IT FIGHTS WITH YOU\nLOADING…\nENTER VR"
+      },
+      {
+        "stage": "live held-trigger completion",
+        "text": "BUILD THE HERD\nRAINBOW 171 · 4s\nHERD 1\nLOST 2\nHOLD TO CLEANSE\nFRIEND RECOVERED — IT FIGHTS WITH YOU\nRELOAD 100%\nENTER VR"
+      },
+      {
+        "stage": "reengaged",
+        "text": "BUILD THE HERD\nRAINBOW 171 · 4s\nHERD 1\nLOST 2\nHOLD TO CLEANSE\nFRIEND RECOVERED — IT FIGHTS WITH YOU\nRELOAD 98%\nENTER VR"
+      }
+    ],
+    "errors": [],
+    "requests": [
+      {
+        "url": "http://127.0.0.1:4173/competition/dist/",
+        "status": 200
+      },
+      {
+        "url": "https://play.js13kgames.com/2026/webxr/aframe.js",
+        "status": 200
+      }
+    ]
+  },
+  "touch": {
+    "portrait": {
+      "width": 390,
+      "height": 844
+    },
+    "landscape": {
+      "width": 844,
+      "height": 390
+    },
+    "htmlSha256": "05cfdeac7c5074f8c1136327a6c139ddac18c8bf2f2272d12d1f59bd09645271",
+    "samples": [
+      {
+        "stage": "normal right-touch hold",
+        "text": "BUILD THE HERD\nRAINBOW 163 · 2s\nHERD 1\nLOST 2\nHOLD TO CLEANSE\nFRIEND RECOVERED — IT FIGHTS WITH YOU\nRELOAD 77%\nENTER VR"
+      },
+      {
+        "stage": "pointercancel",
+        "atCancel": "RELOAD 76%",
+        "after": "RELOAD 75%"
+      },
+      {
+        "stage": "touch reload",
+        "text": "BUILD THE HERD\nRAINBOW 171 · 4s\nHERD 0\nLOST 3\nHOLD TO CLEANSE\nA FRIEND WAS CORRUPTED — WIN THEM BACK\nRELOAD 100%\nENTER VR"
+      },
+      {
+        "stage": "cancel settled",
+        "before": "RELOAD 96%",
+        "after": "RELOAD 96%"
+      },
+      {
+        "stage": "rotate cancels held touch",
+        "before": "RELOAD 92%",
+        "after": "RELOAD 92%",
+        "body": "SAVE YOUR FIRST FRIEND\nRAINBOW 8 · 2s\nHERD 0\nLOST 1\nAIM AT THE DARK UNICORN\nA FRIEND WAS CORRUPTED — WIN THEM BACK\nRELOAD 92%\nENTER VR"
+      }
+    ],
+    "errors": [],
+    "requests": [
+      {
+        "url": "http://127.0.0.1:4173/competition/dist/",
+        "status": 200
+      },
+      {
+        "url": "https://play.js13kgames.com/2026/webxr/aframe.js",
+        "status": 200
+      }
+    ],
+    "landscapeReloadBounds": null
+  },
+  "firefox": {
+    "available": false,
+    "executable": "C:\\Users\\Ariel\\AppData\\Local\\ms-playwright\\firefox-1543\\firefox\\firefox.exe"
+  },
+  "limitations": [
+    "Independent desktop and touch loads had different payload hashes because main build refreshed; each page retained its loaded payload.",
+    "First friend recovered through normal input; no normal progression beyond initial recoveries/draft was proven.",
+    "Headless desktop/touch emulation is not a physical phone or headset.",
+    "No WebXR session requested in this browser pass."
+  ]
+}

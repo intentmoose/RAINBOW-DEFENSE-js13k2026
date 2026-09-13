@@ -1,0 +1,84 @@
+{
+  "baseline": "17ec7aee234dc4a6d43904a35375a33d9b02d97c",
+  "zipBytes": 13307,
+  "sha256": "a63ff9079ffa3795c08d64cd86d585d06c03b682ddbbe5a3f58647d7d7fc1cd8",
+  "parts": [
+    {
+      "name": "body",
+      "vertices": 49,
+      "unchangedPositions": true,
+      "oldFaces": 84,
+      "newFaces": 94
+    },
+    {
+      "name": "neck",
+      "vertices": 30,
+      "unchangedPositions": true,
+      "oldFaces": 48,
+      "newFaces": 56
+    },
+    {
+      "name": "head",
+      "vertices": 30,
+      "unchangedPositions": true,
+      "oldFaces": 48,
+      "newFaces": 56
+    },
+    {
+      "name": "ear",
+      "vertices": 8,
+      "unchangedPositions": true,
+      "oldFaces": 8,
+      "newFaces": 12
+    },
+    {
+      "name": "eye",
+      "vertices": 8,
+      "unchangedPositions": true,
+      "oldFaces": 8,
+      "newFaces": 12
+    },
+    {
+      "name": "horn",
+      "vertices": 15,
+      "unchangedPositions": true,
+      "oldFaces": 20,
+      "newFaces": 26
+    },
+    {
+      "name": "mane",
+      "vertices": 25,
+      "unchangedPositions": true,
+      "oldFaces": 40,
+      "newFaces": 46
+    },
+    {
+      "name": "frontLeg",
+      "vertices": 24,
+      "unchangedPositions": true,
+      "oldFaces": 40,
+      "newFaces": 44
+    },
+    {
+      "name": "rearLeg",
+      "vertices": 28,
+      "unchangedPositions": true,
+      "oldFaces": 48,
+      "newFaces": 52
+    },
+    {
+      "name": "tail",
+      "vertices": 30,
+      "unchangedPositions": true,
+      "oldFaces": 50,
+      "newFaces": 56
+    },
+    {
+      "name": "wing",
+      "vertices": 11,
+      "unchangedPositions": true,
+      "oldFaces": 9,
+      "newFaces": 9
+    }
+  ]
+}

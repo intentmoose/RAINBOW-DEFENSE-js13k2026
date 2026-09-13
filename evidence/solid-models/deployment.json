@@ -1,0 +1,20 @@
+{
+  "sourceCommit": "65e765a170acf8e55835a081acda0f7bb66bccfa",
+  "version": "appgprj_6a7e0d3fab40819181f6efdcf97c7716~appgver_0c3f0461dd04819183a829b34350c266",
+  "versionNumber": 23,
+  "deployment": "appgdep_6aa641bd8678819181758ea063afeb2b",
+  "deployedAt": "2026-09-13T06:25:13.612265+00:00",
+  "access": "owner-only; unchanged",
+  "zipBytes": 13307,
+  "sha256": "a63ff9079ffa3795c08d64cd86d585d06c03b682ddbbe5a3f58647d7d7fc1cd8",
+  "ui": {
+    "url": "https://cartesius-rainbow-herd.rel-coh3n.chatgpt.site/play/",
+    "status": 200,
+    "opening": "RAINBOW\nDEFENSE\n\nProtect the crystal behind you.\n1. BUILD TOWER · 2. START WAVE · 3. FIRE\nCleanse enemies for points.\nLEFT: pick a tower, select a pad, BUILD.\nUnlock weapons on the RIGHT.\n\nPLAY\nFire: tap trigger / click / touch\nMove: left stick / WASD · Turn: right stick\nVR: hand reload · Desktop: R reload\nDrop empty → grip hip magazine → insert + release",
+    "locked": "LOCKED · WAVE 5",
+    "pistol": "AMMO 92% · RELOAD",
+    "progress": "RELOADING 1%",
+    "focusRelease": "AMMO 92% · RELOAD",
+    "errors": []
+  }
+}

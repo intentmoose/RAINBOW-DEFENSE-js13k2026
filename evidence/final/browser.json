@@ -1,0 +1,29 @@
+{
+  "sha256": "5b4932db56fcf676bed1fb0e51b19d2ff3980768b0562fc233d42fed79b89fa3",
+  "bytes": 13297,
+  "entryNames": [
+    "index.html"
+  ],
+  "runs": [
+    {
+      "browser": "Firefox",
+      "version": "155.0",
+      "mode": "extracted ZIP; normal input; no debug injection",
+      "first": "POINTS 45",
+      "pistolHold": "AMMO 92% · RELOAD",
+      "focusRelease": "AMMO 92% · RELOAD",
+      "errors": []
+    },
+    {
+      "browser": "Chrome",
+      "version": "153.0.8010.36",
+      "mode": "extracted ZIP; normal input; no debug injection",
+      "first": "POINTS 45",
+      "pistolHold": "AMMO 92% · RELOAD",
+      "focusRelease": "AMMO 92% · RELOAD",
+      "errors": []
+    }
+  ],
+  "thumbnailBytes": 49394,
+  "coverBytes": 124414
+}

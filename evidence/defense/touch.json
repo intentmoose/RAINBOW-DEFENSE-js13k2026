@@ -1,0 +1,11 @@
+{
+  "browser": "153.0.8010.36",
+  "mode": "extracted ZIP, native CDP touch; emulated 390x844, not physical phone",
+  "canceledBuildPoints": 70,
+  "selectPadPoints": 70,
+  "confirmMenuPoints": 35,
+  "afterCancel": "AMMO 92% · RELOAD",
+  "afterResize": "AMMO 84% · RELOAD",
+  "assistedReload": "100%",
+  "errors": []
+}

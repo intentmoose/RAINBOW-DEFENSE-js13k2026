@@ -1,0 +1,18 @@
+{
+  "sourceSHA": "09533606d88eb073e77b6428640bd77c7adf2687",
+  "version": 13,
+  "versionId": "appgprj_6a7e0d3fab40819181f6efdcf97c7716~appgver_fc3b51cd7b8c8191baa525e49b56afb9",
+  "deploymentId": "appgdep_6aa5c4f6ba948191b2ceba5c38cb1932",
+  "deployedAt": "2026-09-12T21:32:50.426571+00:00",
+  "url": "https://cartesius-rainbow-herd.rel-coh3n.chatgpt.site",
+  "zipBytes": 13023,
+  "sha256": "a0f2f7bfadb25b933ba7c1e2f31968623b5681633272ae8770487d574871b13c",
+  "ui": {
+    "url": "https://cartesius-rainbow-herd.rel-coh3n.chatgpt.site/play/",
+    "status": 200,
+    "csp": null,
+    "firstBuild": "POINTS 35",
+    "phase": "DEFEND · WAVE 1",
+    "errors": []
+  }
+}
